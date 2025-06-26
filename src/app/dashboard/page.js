@@ -84,7 +84,7 @@ export default function DashboardPage() {
         <div className="bg-primary-50 rounded-xl p-12 text-center">
           <h2 className="text-3xl font-bold text-gray-800 mb-6">Welcome, Admin!</h2>
           <p className="text-xl text-gray-700 mb-8">
-            This dashboard allows you to manage PT. Brianov Egatara Nirbana Estu's online presence and
+            This dashboard allows you to manage PT. Brianov Egatara Nirbana Estu&apos;s online presence and
             monitor key metrics for your oil and gas industry services.
           </p>
         </div>
