@@ -33,7 +33,7 @@ const FaqSection = () => {
               </h1>
 
               <p className="mt-2 text-sm text-gray-500">
-                During your first consultation, our team will assess your facility's maintenance needs, discuss safety protocols, and propose a tailored plan for oil and gas equipment upkeep. Expect a detailed walkthrough and a preliminary report.
+                During your first consultation, our team will assess your facility&apos;s maintenance needs, discuss safety protocols, and propose a tailored plan for oil and gas equipment upkeep. Expect a detailed walkthrough and a preliminary report.
               </p>
             </div>
           </div>
